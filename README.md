@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog - A template made using Bootstrap, HTML, CSS
